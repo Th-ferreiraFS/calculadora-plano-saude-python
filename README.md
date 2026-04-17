@@ -15,3 +15,6 @@ Projeto simples em Python que calcula o valor de um plano de saúde com base na 
 ## Objetivo
 
 Praticar lógica de programação e estruturas condicionais.
+
+## Autor
+Thiago Ferreira
